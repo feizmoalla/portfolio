@@ -110,7 +110,7 @@ new TypeIt("#type1", {
   loop: true,
   waitUntilVisible: true,
 })
-  .type("Software Engineering Student", { delay: 400 })
+  .type("software Engineer", { delay: 400 })
   .pause(500)
   .delete(28)
   .type("FullStack Developer", { delay: 400 })
@@ -123,7 +123,7 @@ new TypeIt("#type2", {
   loop: true,
   waitUntilVisible: true,
 })
-  .type("Software Engineering Student", { delay: 400 })
+  .type("software Engineer", { delay: 400 })
   .pause(500)
   .delete(28)
   .type("FullStack Developer", { delay: 400 })
